@@ -39,7 +39,7 @@
 		<nav id="menu" tabindex="-1" role="navigation">
 			<h1 class="hidden">Want more Tiger? Look No Further:</h1>
 			<ul>
-				<li><mark><a href="index.html"><b class="hidden">An </b>Introduction<b class="hidden"> to Tiger</b></a></mark></li>
+				<li><mark><a href="README.md"><b class="hidden">An </b>Introduction<b class="hidden"> to Tiger</b></a></mark></li>
 				<li><a href="characteristic.html"><b class="hidden">Learn More About the </b>Characteristics<b class="hidden"> of the Tiger</b></a></li>
 				<li><a href="ecology.html"><b class="hidden">Explore the </b>Ecology<b class="hidden"> of the Tiger</b></a></li>
 				<li><a href="photos.html"><b class="hidden">View </b>Photos<b class="hidden"> of Different Tiger Subspecies</b></a></li>
