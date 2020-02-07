@@ -22,7 +22,7 @@
 
 		<header role="banner" class="banner banner--home" id="banner" tabindex="-1">
 			<img src="images/cuttlefish-sm.jpg" srcset="images/cuttlefish.jpg 800w, images/cuttlefish-sm.jpg 400w" sizes="(min-width:800px) 400px, 50%" alt="">
-			<h1>The Fascinating Cuttlefish</h1>
+			<h1>The Fearsome Tiger</h1>
 			<a id="nav-jump" href="#menu"><b class="hidden">Jump to the</b> Menu</a>
 		</header>
 
@@ -37,21 +37,24 @@
 		<hr>
 		
 		<nav id="menu" tabindex="-1" role="navigation">
-			<h1 class="hidden">Want more Cuttlefish? Look No Further:</h1>
+			<h1 class="hidden">Want more Tiger? Look No Further:</h1>
 			<ul>
-				<li><mark><a href="index.html"><b class="hidden">An </b>Introduction<b class="hidden"> to Cuttlefish</b></a></mark></li>
-				<li><a href="physiology.html"><b class="hidden">Learn More About the </b>Physiology<b class="hidden"> of the Cuttlefish</b></a></li>
-				<li><a href="ecology.html"><b class="hidden">Explore the </b>Ecology<b class="hidden"> of the Cuttlefish</b></a></li>
-				<li><a href="photos.html"><b class="hidden">View </b>Photos<b class="hidden"> of Different Cuttlefish</b></a></li>
-				<li><a href="videos.html"><b class="hidden">Watch </b>Videos<b class="hidden"> of Cuttlefish in Action</b></a></li>
+				<li><mark><a href="index.html"><b class="hidden">An </b>Introduction<b class="hidden"> to Tiger</b></a></mark></li>
+				<li><a href="characteristic.html"><b class="hidden">Learn More About the </b>Characteristics<b class="hidden"> of the Tiger</b></a></li>
+				<li><a href="ecology.html"><b class="hidden">Explore the </b>Ecology<b class="hidden"> of the Tiger</b></a></li>
+				<li><a href="photos.html"><b class="hidden">View </b>Photos<b class="hidden"> of Different Tiger Subspecies</b></a></li>
+				<li><a href="videos.html"><b class="hidden">Watch </b>Videos<b class="hidden"> of Tiger in Action</b></a></li>
 			</ul>
 			<a id="menu-close" href="#banner"><b class="hidden">Return to the content</b></a>
 		</nav>
 		
 		<footer role="contentinfo">
-			<p id="copyright">The text content of this site was lovingly borrowed from <a href="//en.wikipedia.org/wiki/Cuttlefish">the Wikipedia article on Cuttlefish</a> on <time>15 August 2014</time> under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>. Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.</p>
+			<p id="copyright">The text content of this site was lovingly borrowed from <a href="https://en.wikipedia.org/wiki/Tiger">the Wikipedia article on Tiger</a> under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>. Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.</p>
 		</footer>
 		
 		<script src="js/main.js" async=""></script>
 	
-<div id="getActiveMQ-watcher" style="display: none;"></div></body></html>
+	<div id="getActiveMQ-watcher" style="display: none;">
+	</div>
+	</body>
+</html>
